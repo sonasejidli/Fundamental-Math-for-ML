@@ -1,8 +1,8 @@
 # Fundamental-Math-for-ML
-Linear Algebra Learning Path
+Linear Algebra 
 
 This project is divided into two main parts: Linear Algebra I and Linear Algebra II.
-Each part covers essential concepts for Machine Learning, Data Science, and Deep Learning.
+Each part covers essential concepts for Machine Learning and Deep Learning.
 
 🔹 Linear Algebra I
 
