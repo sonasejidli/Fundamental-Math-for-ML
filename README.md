@@ -58,3 +58,5 @@ Singular Value Decomposition (SVD)
 Singular Value Decomposition of an Image
 
 Principal Component Analysis (PCA)
+
+Calculus : Limits & Derivatives
